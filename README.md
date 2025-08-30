@@ -61,15 +61,6 @@ Flight Class
 - Prevention of duplicate entries
 - Baggage weight limits enforcement
 
-📁 File Structure
-
-src/
-├── Person.java           # Base class for people
-├── Passenger.java        # Passenger model with validation
-├── Flight.java           # Enhanced flight model
-├── AirportManager.java   # Service layer for operations
-└── AirportApp.java       # Main application with UI
-
 Main Menu Options
 
 1. Passenger Management
